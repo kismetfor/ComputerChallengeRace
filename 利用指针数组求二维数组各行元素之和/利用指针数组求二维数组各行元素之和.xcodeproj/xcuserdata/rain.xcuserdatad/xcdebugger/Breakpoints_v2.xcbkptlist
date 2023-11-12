@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF89D38F-958B-4738-9738-3477A8143DD9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB18F06D-1183-43DA-8D16-BC4F1617D8A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5229;&#x7528;&#x6307;&#x9488;&#x6570;&#x7ec4;&#x6c42;&#x4e8c;&#x7ef4;&#x6570;&#x7ec4;&#x5404;&#x884c;&#x5143;&#x7d20;&#x4e4b;&#x548c;/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF03D2BF-B02C-4159-8505-7BDA81226973"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5229;&#x7528;&#x6307;&#x9488;&#x6570;&#x7ec4;&#x6c42;&#x4e8c;&#x7ef4;&#x6570;&#x7ec4;&#x5404;&#x884c;&#x5143;&#x7d20;&#x4e4b;&#x548c;/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D51E387A-FD9A-4504-9AB6-116D22F44F9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5229;&#x7528;&#x6307;&#x9488;&#x6570;&#x7ec4;&#x6c42;&#x4e8c;&#x7ef4;&#x6570;&#x7ec4;&#x5404;&#x884c;&#x5143;&#x7d20;&#x4e4b;&#x548c;/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C7E55E1-3D68-400C-8BF0-0AD5B8212D2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x5229;&#x7528;&#x6307;&#x9488;&#x6570;&#x7ec4;&#x6c42;&#x4e8c;&#x7ef4;&#x6570;&#x7ec4;&#x5404;&#x884c;&#x5143;&#x7d20;&#x4e4b;&#x548c;/main.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
