@@ -39,7 +39,7 @@ int main(int argc, const char * argv[]) {
     
     for (int i=0; i<k; i++) {
         int index = find_max_index(a, n);
-        a[index] = (a[index] +a[index+2])/2;
+        a[index] = a[index+1];
     }
     int ret = lingluan(a, n);
     printf("%d\n", ret);
